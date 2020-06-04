@@ -6,3 +6,6 @@ This project was done to fulfill course requirements for *Data Visualization usi
 * Pandas
 * Folium
 * Requests
+
+### Output
+![](map.JPG)
